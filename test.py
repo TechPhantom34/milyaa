@@ -1,2 +1,2 @@
 import os as execute
-execute.system(f"whoami")
+execute.system(f"sudo whoami")
