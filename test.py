@@ -1,2 +1,2 @@
 import os as execute
-execute.systen(f"whoami")
+execute.system(f"whoami")
